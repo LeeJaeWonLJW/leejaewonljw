@@ -1,4 +1,5 @@
-### Hi there 👋
+### ***"Trading with software engineering"***
+
 #### I'm really into script language like Node.js, Express.js, Flask, Sanic 🔥
 #### Building trading algorithm with Go and Docker 📈
 
