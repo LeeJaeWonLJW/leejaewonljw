@@ -3,12 +3,22 @@
 #### I'm really into script language like Node.js, Express.js, Flask, Sanic 🔥
 #### Building trading algorithm with Go and Docker 📈
 
+Our team trades cryptocurrency via HFT technology between traditional exchanges and De-Fi AMM Services.
+
+We cover the items below.
+- Arbitrage based HFT
+- Algorithm Trading
+- Node Validating
+- Liquidity Providing
+
 -----------------------
 
 ##### Linkedin
 [https://www.linkedin.com/in/jay-jaewon-lee/](https://www.linkedin.com/in/jay-jaewon-lee/)
 ##### Summary
 [https://blog.jaewon.me/about/](https://blog.jaewon.me/about/)
+
+
 
 <!--
 **LeeJaeWonLJW/leejaewonljw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
