@@ -16,7 +16,8 @@ We cover the items below.
 ##### Linkedin
 [https://www.linkedin.com/in/jay-jaewon-lee/](https://www.linkedin.com/in/jay-jaewon-lee/)
 ##### Summary
-[https://blog.jaewon.me/about/](https://blog.jaewon.me/about/)
+[https://surfbit.io/](https://surfbit.io/)
+[https://bitxxx.ventures/](https://bitxxx.ventures/)
 
 
 
